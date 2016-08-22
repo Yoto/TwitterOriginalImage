@@ -4,7 +4,7 @@
     "description": "The title of the extension, displayed in the web store."
     },
     "appDesc": {
-    "message": "Get an original image posted on Twitter", 
+    "message": "Get an original image posted on Twitter from right click menu.", 
     "description":"The description of the extension, displayed in the web store."
     },
     "openContextMenuTitle": {

@@ -3,7 +3,7 @@
     "message": "Twitterの元画像表示"
     },
     "appDesc": {
-    "message": "Twitterに投稿された画像の元画像を表示します"
+    "message": "右クリックでTwitterに投稿された画像の元画像を表示します"
     },
     "openContextMenuTitle": {
     "message": "元画像を表示"
