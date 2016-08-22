@@ -1,0 +1,17 @@
+{
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
+  "version" : "0.0.4",
+  "background" : { "scripts": ["background.js"] },
+  "permissions" : [
+    "contextMenus",
+    "tabs",
+    "https://twitter.com/"
+   ],
+  "minimum_chrome_version" : "52.0.2743.116",
+  "icons" : {
+
+  },
+  "manifest_version": 2
+}

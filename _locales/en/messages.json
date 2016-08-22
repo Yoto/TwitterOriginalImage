@@ -1,0 +1,14 @@
+{
+    "appName": {
+    "message": "TwitterOriginalImage",
+    "description": "The title of the extension, displayed in the web store."
+    },
+    "appDesc": {
+    "message": "Get an original image posted on Twitter", 
+    "description":"The description of the extension, displayed in the web store."
+    },
+    "openContextMenuTitle": {
+    "message": "Show original image",
+    "description": "context menu button text"
+    }
+}
